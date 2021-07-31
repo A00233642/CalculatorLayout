@@ -17,14 +17,18 @@
 
 
     </style>
-
+     
+    
+     <!--  styles  for Buttons   -->
     <style name="Label" parent="Widget.MaterialComponents.TextView">
         <item name="android:textSize">20sp</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">#000000</item>
 
     </style>
-
+      
+    
+    <!--  styles  for Buttons   -->
     <style name="MyButton" parent="Widget.MaterialComponents.Button">
         <item name="android:textSize">20sp</item>
         <item name="backgroundTint">#6a6b7a</item>
@@ -32,7 +36,8 @@
         <item name="rippleColor">#136cba</item>
 
     </style>
-
+     
+    <!--  styles  for Buttons   -->
     <style name="Button" parent="Widget.MaterialComponents.Button">
         <item name="android:textSize">20sp</item>
         <item name="backgroundTint">#1c2129</item>
@@ -40,7 +45,9 @@
         <item name="rippleColor">#bf7581</item>
 
     </style>
-
+      
+    
+    <!--  styles  for Buttons   -->
     <style name="Btn" parent="Widget.MaterialComponents.Button">
         <item name="android:textSize">20sp</item>
         <item name="backgroundTint">#4aa1c7</item>
