@@ -12,6 +12,8 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        
+         <!--  styles  for buttons   -->
         <item name="materialButtonStyle">@style/MyButton</item>
 
 
@@ -19,7 +21,7 @@
     </style>
      
     
-     <!--  styles  for Buttons   -->
+     <!--  styles  for TextView   -->
     <style name="Label" parent="Widget.MaterialComponents.TextView">
         <item name="android:textSize">20sp</item>
         <item name="android:textStyle">bold</item>
